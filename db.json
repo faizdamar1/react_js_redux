@@ -1,0 +1,29 @@
+{
+	"users" : [
+		{
+		  "id": 1,
+		  "nama": "Faizu",
+		  "alamat": "Surabaya",
+		},
+		{
+		  "id": 2,
+		  "nama": "Damar",
+		  "alamat": "Sidoarjo",
+		},
+		{
+		  "id": 3,
+		  "nama": "Hernanda",
+		  "alamat": "Gresik",
+		},
+		{
+		  "id": 4,
+		  "nama": "Uzumaki",
+		  "alamat": "Konoha",
+		},
+		{
+		  "id": 5,
+		  "nama": "Naruto",
+		  "alamat": "Gakure",
+		},
+	]
+}
